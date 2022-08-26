@@ -1,0 +1,26 @@
+_repo: The-Mayflower-Society-house-Being-the-story-of-the-Edward-Winslow-house-the-Mayflower-Society__68794
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pratt, Walter Merriam
+    gutenberg_agent_id: '54951'
+    url: http://www.gutenberg.org/2009/agents/54951
+description: ''
+gutenberg_issued: '2022-08-20'
+identifiers:
+  gutenberg: '68794'
+language: en
+pgterms:marc905: 20211223031234pratt
+pgterms:marc906: '1950'
+pgterms:marc907: US
+production_note: Steve Mattern, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: United States :Privately printed, University Press,1950.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Mayflower Society house: Being the story of the Edward Winslow house,
+  the Mayflower Society, the Pilgrims'
+url: http://www.gutenberg.org/ebooks/68794
