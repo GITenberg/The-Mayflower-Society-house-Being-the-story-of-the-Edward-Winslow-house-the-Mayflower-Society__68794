@@ -1,11 +1,16 @@
 _repo: The-Mayflower-Society-house-Being-the-story-of-the-Edward-Winslow-house-the-Mayflower-Society__68794
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68794-h/images/cover.jpg
 creator:
   author:
     agent_name: Pratt, Walter Merriam
     gutenberg_agent_id: '54951'
     url: http://www.gutenberg.org/2009/agents/54951
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68794#The-Mayflower-Society-house-Being-the-story-of-the-Edward-Winslow-house-the-Mayflower-Society_
 gutenberg_issued: '2022-08-20'
 identifiers:
   gutenberg: '68794'
